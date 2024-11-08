@@ -1,20 +1,31 @@
-public class Rafael {
-    String name;
-    String fav_food;
-    int age;
+import java.io.*;
 
-    public void say_my_name(){
-        System.out.println("Hello, my name is " + name + " a'm " + age + " years old, and my favorite food is " + fav_food);
+class TestSingleton{
+    public static void main(String[] args){
+        MySingleton x = MySingleton.get_instance();
+        MySingleton y =  MySingleton.get_instance();
+
+        System.out.println("The memory hash of X is: " + System.identityHashCode(x));
+        System.out.println("The memory hash of Y is: " + System.identityHashCode(y));
+    }
+}
+
+class MySingleton{
+    private static MySingleton instance;
+
+    private MySingleton(){
+        System.out.println("Singleton class has been instantiated");
     }
 
-    public static void main(String[] Args){
-        Rafael rafael = new Rafael();
-    
-        rafael.name = "zozas";
-        rafael.age = 18;
-        rafael.fav_food = "hamburguer";
-    
-        rafael.say_my_name();
+    public static MySingleton get_instance(){
+        if (instance == null){
+            instance = new MySingleton();
+        }
+        
+        return instance;
     }
-    
+
+    public static void say_hello(String name){
+        System.out.println("Hello, " + name);
+    }
 }
