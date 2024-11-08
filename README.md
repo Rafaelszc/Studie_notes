@@ -2,7 +2,7 @@
 
 - [ ] Design Patterns
   - [ ] Definicão e seus tipos
-  - [ ] Como garantir uma instância única em Singleton
+  - [x] Como garantir uma instância única em Singleton
 - [ ] Estrutura de dados:
   - [ ] O que é
   - [ ] Fila
