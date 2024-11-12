@@ -25,6 +25,17 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
   - [ ] Simultaneidade e Sincronização
   - [ ] Arquitetura
 
+- [ ] Redes de Computadores
+  - [ ] Modelos OSI e TCP/IP
+  - [ ] Protocolos de comunicacão
+    - [ ] TCP
+    - [ ] UDP
+    - [ ] HTTP
+    - [ ] FTP
+    - [ ] DNS
+  - [ ] Arquitetura de rede
+  - [ ] Seguranca de redes
+
 - [ ] Design Patterns
   - [ ] [Definicão e seus tipos](design_patterns/design_patterns_question_1.md)
   - [ ] Creational Design Pattern
@@ -52,8 +63,3 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
     - [ ] Vistor Pattern
     - [ ] Mediator Pattern
     - [ ] Memento Pattern
-  
-- [ ] Redes de Computadores
-  - [ ] Network Protocols
-  - [ ] Network Architecture
-  - [ ] Network Security
