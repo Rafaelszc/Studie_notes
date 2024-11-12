@@ -19,6 +19,13 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
   - [ ] Merge Sort
   - [ ] Notacão bigO
   
+- [ ] Algoritmos em grafos
+  - [ ] Dijkstra
+  - [ ] A*
+  - [ ] Depth First Search
+  - [ ] Breadth First Search
+  - [ ] Árvore geradora mínima
+  
 - [ ] Sistema Operacional
   - [ ] Gerenciamento de Processos
   - [ ] Gerenciamento de Memória
