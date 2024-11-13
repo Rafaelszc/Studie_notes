@@ -10,14 +10,14 @@ Na prática, estrutura de dados estão em todos os lugares, até mesmo, como fal
 
 ### Exemplo de um grafo
 
-![img_1](../resources/data_structure_1.png)
+![img_1](../../resources/data_structure_1.png)
 
 Para uma melhor visualizacão, podemos nos apropriar de uma área matemática inspirada inicialmente por Euler chamada teoria dos grafos (por isso que grafo também é um tipo de estrutura de dados), nisso podemos atribuir nós e arcos para representar a figura. Podemos identificar os nós por números. E os arcos por letras:
 
-![img_2](../resources/data_structure_2.png)
+![img_2](../../resources/data_structure_2.png)
 
 Ainda sim, para um computador esse tipo de representacão fica inviável. Mas, há várias formas matemáticas de representar esse tipo de estrutura e uma delas é através de matrizes. Como exemplo uma matriz de adjacência.
 
-![img_3](../resources/data_structure_3.png)
+![img_3](../../resources/data_structure_3.png)
 
 Nesse tipo de matriz, podemos identificar os nós vizinhos. E para algoritmos isso é de extrema importância, como exemplo os algoritmos de busca em grafos: Dijkstra, A*, Bellman Ford...
