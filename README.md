@@ -44,7 +44,7 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
   - [ ] Seguranca de redes
 
 - [ ] Design Patterns
-  - [ ] [Definicão e seus tipos](design_patterns/design_patterns_question_1.md)
+  - [ ] [Definicão e seus tipos](design_patterns/design_patterns.md)
   - [ ] Creational Design Pattern
     - [x] [Singleton](design_patterns/singleton.md)
     - [ ] Factory Method Pattern
