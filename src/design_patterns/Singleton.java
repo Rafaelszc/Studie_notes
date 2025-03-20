@@ -1,6 +1,6 @@
 import java.io.*;
 
-class TestSingleton{
+public class Singleton{
     public static void main(String[] args){
         MySingleton x = MySingleton.get_instance();
         MySingleton y =  MySingleton.get_instance();
