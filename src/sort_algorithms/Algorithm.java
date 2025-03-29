@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SelectionSort{
+public class Algorithm{
     public static void main(String[] args){
         int array[] = {213, 2, 54, 12, 53, 2, 75, 4, 674, 24};
 
