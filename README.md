@@ -5,7 +5,7 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
 - [ ] Estrutura de dados:
   - [X] [Definicão](docs/data_structures/data_structures.md)
   - [X] [Array](docs/data_structures/array.md) ([C](src/data_structures/array.c), [Java](src/data_structures/Array.java))
-  - [ ] Fila
+  - [X] [Fila](docs/data_structures/queue.md) ([C](src/data_structures/queue/queue.c))
   - [ ] Pilha
   - [ ] Linked List
   - [ ] Árvore
